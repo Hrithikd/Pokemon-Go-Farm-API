@@ -1,4 +1,4 @@
-## Pokemon-Go-Working-Bot-Hack
+## Pokemon-Go-Farm-API
 # Instructions
 1. Download/fork project; and open up the zip file inside the project and put it in a separate folder, separate from this original project.
 2. Open up zip and open up command line and go to the directory where the opened zip is at. 
