@@ -7,3 +7,5 @@
 5. Run the following line on terminal/CMD if you login into Pokemon Go with Google: `python pokebot.py -i 0` and `python pokebot.py -i 1` if you use Pokemon Trainer's Club
 6. After you run it the first time add `--cache` to the end. For example, `python pokebot.py -i 0 --cache`
 7. Many thanks to the many devs at /r/pokemongodev!
+
+Note: created with a partner in 2016
