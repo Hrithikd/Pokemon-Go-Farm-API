@@ -1,6 +1,6 @@
 geopy==1.11.0
 protobuf==3.0.0b3
-requests==2.20.0
+requests==2.31.0
 s2sphere==0.2.4
 gpsoauth==0.3.0
 protobuf-to-dict==0.1.0
