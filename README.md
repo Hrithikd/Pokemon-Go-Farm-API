@@ -9,3 +9,4 @@
 7. Many thanks to the many devs at /r/pokemongodev!
 
 Note: created with a partner in 2016
+Continuously updated 2016, 2017, 2019, 2021, 2026, continued development in progress for maintainence
